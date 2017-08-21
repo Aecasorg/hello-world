@@ -1,2 +1,8 @@
 # hello-world
-The first trial of this GitHub malarkey
+The first trial of this GitHub malarkey.
+
+I am an individual that's been passionate about tech all my life. Computing played a huge part throughout my youth. I was an only child brought up in the country side where I had to entertain myself most of the time. Computing was perfect for that. So many possibilities! Although, upon reflection, I seem to have been searching most of life for a way to convert this interest into a career. Instictively I knew computing was the future however somehow the "opportunity" never revealed itself. Every educational institution I attended was behind and somehow discouraging. You need to know that I'm talking about at least 5 different schools and even university to a point. Even my university, which was supposed to be at the forefront of computing was in a way discouraging. Too much of lab-coat computing and less about broadening your horizons. Today, well, that's a different matter. The world of computing/tech has finally caught up! It is just insane out there and I really wish I'd been part of this journey earlier. Mind you, now there's so much help you can get (if you know where to look). The eternal problem now is knowing where to start! Information overload. 
+
+I had ideas what I wanted from computers way ahead of time. I already knew that I wanted a Macbook Pro retina when I got my first laptop in 1998. I got a HP Omnibook which was the nearest I could get at the time. Horrifically expensive, but thin, decent graphics, portable and versatile. Still not good enough though... 
+
+From now on I have to publicise my coding learning journey and try and explain and motivate every step (well, almost). Good practice. If I can't put changes I do into words, then it only shows that I don't understand what I'm doing and vice versa. 
